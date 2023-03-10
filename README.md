@@ -20,7 +20,7 @@ Data is comprehensive from rottentomatoes, boxofficemojo, and IMDB.   Methods ar
 ## Results
 
 ![img](https://github.com/protigen34/New-Movie-Studio-Name/blob/main/images%20and%20files/total%20gross.png)
-![img](https://raw.githubusercontent.com/protigen34/New-Movie-Studio-Name/main/images%20and%20files/net%20gain.png​)
+![img](https://raw.githubusercontent.com/protigen34/New-Movie-Studio-Name/main/images%20and%20files/net%20gain.png)
 ![img](https://raw.githubusercontent.com/protigen34/New-Movie-Studio-Name/main/images%20and%20files/net%20gain%20vs%20production%20budget.png)
   
   
