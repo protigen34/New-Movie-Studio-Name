@@ -19,8 +19,30 @@ Data is comprehensive from rottentomatoes, boxofficemojo, and IMDB.   Methods ar
 
 ## Results
 
+
+
+Chart 1:
+
+For this chart, the top 10 highest grossing movies domestically, we see the relative effective power of franchise movies.   Franchise movies comprise of 9 out of 10 of the highest grossing movies of all time, domestically.   The only one which is not a franchise movie is Titanic. 
+
+
 ![img](https://github.com/protigen34/New-Movie-Studio-Name/blob/main/images%20and%20files/total%20gross.png)
+
+
+
+Chart 2:
+
+This chart measures the top 10 most profitable movies of all time.   We use this chart to look at the net gain and profit.   Profit index(net gain) = worldwide gross - production budget.  We can see that the 10 most profitable movies of all time were all extremely expensive productions.   All cost at least 125 million dollars to make.
+
+
 ![img](https://raw.githubusercontent.com/protigen34/New-Movie-Studio-Name/main/images%20and%20files/net%20gain.png)
+
+
+
+Chart 3:
+
+This chart measures the top 10 most profitable movies of all time vs their production budget.   It is a more clear and concise overview of the amount of money spent to make the movie vs how much the movie made when the amount spent is subtracted.
+
 ![img](https://raw.githubusercontent.com/protigen34/New-Movie-Studio-Name/main/images%20and%20files/net%20gain%20vs%20production%20budget.png)
   
   
